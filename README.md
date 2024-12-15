@@ -1,1 +1,6 @@
-{ "type": "text", "value": "# Test Repository\nThis is a test repository created to validate GitHub API integration tools." }
+{
+  "content": {
+    "encoding": "base64",
+    "content": "IyBUZXN0IFJlcG9zaXRvcnkKClRoaXMgaXMgYSB0ZXN0IHJlcG9zaXRvcnkgY3JlYXRlZCB0byB2YWxpZGF0ZSBHaXRIdWIgQVBJIGludGVncmF0aW9uIHRvb2xzLg=="
+  }
+}
